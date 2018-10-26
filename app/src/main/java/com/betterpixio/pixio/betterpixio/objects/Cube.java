@@ -2,6 +2,7 @@ package com.betterpixio.pixio.betterpixio.objects;
 
 import android.support.annotation.NonNull;
 
+import com.betterpixio.pixio.betterpixio.data.CubeDataHolder;
 import com.betterpixio.pixio.betterpixio.utils.PixioColor;
 import com.betterpixio.pixio.betterpixio.utils.PixioPoint;
 

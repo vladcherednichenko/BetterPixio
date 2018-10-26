@@ -2,6 +2,9 @@ package com.betterpixio.pixio.betterpixio.data;
 
 import java.util.ArrayList;
 
+import static com.betterpixio.pixio.betterpixio.Constants.FACET_COMPONENT_COUNT;
+import static com.betterpixio.pixio.betterpixio.Constants.POINT_COMPONENT_COUNT;
+
 public class CubeDataHolder {
 
     public int sizeInVertex;
@@ -17,6 +20,7 @@ public class CubeDataHolder {
 
     private float[] vertices;
     private float[] normals;
+
 
     private CubeDataHolder(){}
 
